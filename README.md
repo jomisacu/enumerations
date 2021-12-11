@@ -73,7 +73,7 @@ The solutions are the enumerations. See the example...
 class Career extends Jomisacu\Enumerations\Enumeration 
 {
     // WTF??? What is this?
-    // using us own value we drop the dependency with external sources
+    // using our own value we drop the dependency with external sources
     // but below we will see how to deal with these values
     // the values in the database are the values that we decided in the class constants
     public const SOFTWARE_ENGINEER = "a372d961-22d9-4cc4-a9ee-4cb47a15b26d";

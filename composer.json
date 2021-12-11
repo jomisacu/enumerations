@@ -1,0 +1,21 @@
+{
+    "name": "jomisacu/enumerations",
+    "description": "A simple way to handle enumerations in php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jomisacu\\Enumerations\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jomisacu",
+            "email": "jomisacu.software@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.3"
+    }
+}

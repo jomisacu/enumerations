@@ -152,6 +152,7 @@ abstract class Enumeration
      * @throws WrongEnumerationNameException
      * @throws WrongEnumerationValueException
      * @throws WrongEnumerationValueTypeException
+     * @return static
      */
     public static function __callStatic($name, $arguments)
     {
